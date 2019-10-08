@@ -73,20 +73,174 @@ $
 
 ### Exercise 3
 
-What is the area (in square millimeters) of an 8.5-by-11-inch sheet of paper? What is the area of a sheet of paper whose dimensions are provided by the user?
+What is the area (in square millimeters) of an *l*-by-*w*-inch sheet of paper, where *l* and *w* are provided by the user?
 
 ```
 $ node area.js
-An 8.5-by-11-inch sheet of paper has an area of 60,322.46 square millimeters.
+Width: 8.5
+Length: 11
 
-$ Length: 10
-$ Width: 10
-$ A(n) 10-by-10-inch sheet of paper has an area of 64,516.00 square millimeter(s).
+A(n) 8.5-by-11-inch sheet of paper has an area of 60,322.46 square millimeter(s).
 $
 ```
 
 * Your code must be written in a file named `area.js`.
-* Your prompts printed text must match mine exactly (including spacing and punctuation).
+* Your prompts and printed text must match mine exactly (including spacing and punctuation).
 * Use a `const` variable to represent the conversion factor between inches and millimeters.
-* Round the results to two decimals, and format them with separating commas.
+* Round the result to two decimals, and format it with separating commas (if needed).
+* Conditional statements and loops are not permitted.
+
+### Exercise 4
+
+What is the perimeter (in centimeters) of an *l*-by-*w*-inch sheet of paper, where *l* and *w* are provided by the user?
+
+```
+$ node perimeter.js
+Width: 8.5
+Length: 11
+
+A(n) 8.5-by-11-inch sheet of paper has a perimeter of 99.06 centimeter(s).
+$
+```
+
+* Your code must be written in a file named `perimeter.js`.
+* Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Use a `const` variable to represent the conversion factor between inches and centimeters.
+* Round the result to two decimals, and format it with separating commas (if needed).
+* Conditional statements and loops are not permitted.
+
+### Exercise 5
+
+What is the length of the diagonal (in inches) between two corners on an *l*-by-*w*-inch sheet of paper, where *l* and *w* are provided by the user?
+
+```
+$ node diagonal.js
+Width: 8.5
+Length: 11
+
+A(n) 8.5-by-11-inch sheet of paper has a diagonal of 13.90 inch(es).
+$
+```
+
+* Your code must be written in a file named `diagonal.js`.
+* Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Round the result to two decimals, and format it with separating commas (if needed).
+* Conditional statements and loops are not permitted.
+
+### Exercise 6
+
+Given the grading policy and the homework, quiz, and test grades I provide, what marking period grade will I get?
+
+The grading policy defines the following weights.
+* Homework, 15%
+* Quizzes, 35%
+* Tests, 50%
+
+```
+$ node grades.js
+Enter three homework grades.
+88
+91
+0
+
+Enter three quiz grades.
+84
+89
+93
+
+Enter three test grades.
+74
+87
+82
+
+Your marking period grade is 80.48%.
+$
+```
+
+* Your code must be written in a file named `grades.js`.
+* Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Use `const` variables to represent the weights of each category.
+* Round the result to two decimals.
+* Conditional statements and loops are not permitted.
+
+### Exercise 7
+
+I get paid by the hour as a cashier at a local supermarket. How much money will I make this week?
+
+```
+$ node hourly.js
+Hourly wage: 12.5
+
+Monday: 7.5
+Tuesday: 8
+Wednesday: 10.5
+Thursday: 9.5
+Friday: 6
+Saturday: 11.5
+Sunday: 0
+
+You'll make $662.50 this week.
+$
+```
+
+* Your code must be written in a file named `hourly.js`.
+* Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Round the result to two decimals, and format it with separating commas (if needed).
+* Conditional statements and loops are not permitted.
+
+### Exercise  8
+
+What is my take-home pay each check? I get paid twice per month, and deductions my pay period deductions are as follows.
+
+* 401k contribution (pre-tax), 7%
+* Federal income tax, 15.7%
+* State income tax, 4.47%
+* Social Security tax, 6.2%
+* Medicare tax, 1.45%
+
+```
+$ node salary.js
+Annual salary: 117000
+
+Your take-home pay each check is $3,272.46.
+$
+```
+
+* Your code must be written in a file named `salary.js`.
+* Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Round the result to two decimals, and format it with separating commas (if needed).
+* Conditional statements and loops are not permitted.
+
+### Exercise 9
+
+I am planning a class trip next month. How many buses do I need, and how many people will be on the last bus? You can assume that all buses are filled to capacity before moving on to the next bus.
+
+```
+$ node trip.js
+Students: 273
+Teachers: 28
+Bus capacity: 54
+
+6 buses are needed, with 31 passengers on the last bus.
+$
+```
+
+* Your code must be written in a file named `trip.js`.
+* Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Round the result to two decimals, and format it with separating commas (if needed).
+* Conditional statements and loops are not permitted.
+
+### Exercise 10
+
+What is the surface area of a standard Cornhole board? The board is 48-by-24 inches, with a hole 6-inches in diameter.
+
+```
+$ node cornhole.js
+The surface area of a standard Cornhole board is 1,123.73 square inches.
+$
+```
+
+* Your code must be written in a file named `cornhole.js`.
+* Your printed text must match mine exactly (including spacing and punctuation).
+* Round the result to two decimals, and format it with separating commas (if needed).
 * Conditional statements and loops are not permitted.
