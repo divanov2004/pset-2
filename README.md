@@ -237,3 +237,19 @@ The surface area of a standard Cornhole board is 1,123.73 square inches.
 * Your printed text must match mine exactly (including spacing and punctuation).
 * Round the result to two decimals, and format it with separating commas (if needed).
 * Conditional statements and loops are not permitted.
+
+## Deadline
+
+Please read very carefully. Historically, most students lose points on problem sets for simply failing to read the instructions and requirements.
+
+* October 27, 2019, at 11:59pm.
+
+If you submit your problem set at midnight (i.e., October 28, 2019, at 12:00am), it is considered **late**!
+
+Submission Requirements
+Your code **must** compile. Code that fails to meet this minimum requirement will not be accepted.
+There must be **at least** 5 unique commits to your repository.
+Your code must meet each requirement outlined in the Exercises and Deliverables sections.
+Your code must adhere to the course style guidelines.
+
+Happy coding!
