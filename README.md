@@ -62,9 +62,10 @@ Prompt the user to enter his or her first name, and print a personalized message
 
 ```
 $ node hello-user.js
-Hi! What's your name? Ryan
+Hi! What's your name?
+Ryan
+
 Nice to meet you, Ryan!
-$
 ```
 
 * Your code must be written in a file named `hello-user.js`.
@@ -81,7 +82,6 @@ Width: 8.5
 Length: 11
 
 A(n) 8.5-by-11-inch sheet of paper has an area of 60,322.46 square millimeter(s).
-$
 ```
 
 * Your code must be written in a file named `area.js`.
@@ -100,7 +100,6 @@ Width: 8.5
 Length: 11
 
 A(n) 8.5-by-11-inch sheet of paper has a perimeter of 99.06 centimeter(s).
-$
 ```
 
 * Your code must be written in a file named `perimeter.js`.
@@ -119,7 +118,6 @@ Width: 8.5
 Length: 11
 
 A(n) 8.5-by-11-inch sheet of paper has a diagonal of 13.90 inch(es).
-$
 ```
 
 * Your code must be written in a file named `diagonal.js`.
@@ -154,7 +152,6 @@ Enter three test grades.
 82
 
 Your marking period grade is 80.48%.
-$
 ```
 
 * Your code must be written in a file named `grades.js`.
@@ -180,7 +177,6 @@ Saturday: 11.5
 Sunday: 0
 
 You'll make $662.50 this week.
-$
 ```
 
 * Your code must be written in a file named `hourly.js`.
@@ -202,8 +198,7 @@ What is my take-home pay each check? I get paid twice per month, and deductions 
 $ node salary.js
 Annual salary: 117000
 
-Your take-home pay each check is $3,272.46.
-$
+Your take-home pay each check will be $3,272.46.
 ```
 
 * Your code must be written in a file named `salary.js`.
@@ -222,7 +217,6 @@ Teachers: 28
 Bus capacity: 54
 
 6 buses are needed, with 31 passengers on the last bus.
-$
 ```
 
 * Your code must be written in a file named `trip.js`.
@@ -237,7 +231,6 @@ What is the surface area of a standard Cornhole board? The board is 48-by-24 inc
 ```
 $ node cornhole.js
 The surface area of a standard Cornhole board is 1,123.73 square inches.
-$
 ```
 
 * Your code must be written in a file named `cornhole.js`.
