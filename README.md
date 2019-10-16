@@ -1,6 +1,6 @@
 # Problem Set 2
 
-It's time to put your skills to the test. This problem set focuses on programming in JavaScript. More specifically, it focuses on printing text to the console, prompting the user for input,
+It's time to put your skills to the test. This problem set focuses on programming in JavaScript. More specifically, it focuses on printing text to the console, prompting the user for input, and manipulating that input using operators to solve simple problems.
 
 ## Getting Started
 
