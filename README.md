@@ -246,10 +246,11 @@ Please read very carefully. Historically, most students lose points on problem s
 
 If you submit your problem set at midnight (i.e., October 28, 2019, at 12:00am), it is considered **late**!
 
-Submission Requirements
-Your code **must** compile. Code that fails to meet this minimum requirement will not be accepted.
-There must be **at least** 10 unique commits to your repository.
-Your code must meet each requirement outlined in the Exercises and Deliverables sections.
-Your code must adhere to the course style guidelines.
+### Submission Requirements
+
+* Your code **must** compile. Code that fails to meet this minimum requirement will not be accepted.
+* There must be **at least** 10 unique commits to your repository.
+* Your code must meet each requirement outlined in the Exercises and Deliverables sections.
+* Your code must adhere to the course style guidelines.
 
 Happy coding!
