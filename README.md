@@ -248,7 +248,7 @@ If you submit your problem set at midnight (i.e., October 28, 2019, at 12:00am),
 
 Submission Requirements
 Your code **must** compile. Code that fails to meet this minimum requirement will not be accepted.
-There must be **at least** 5 unique commits to your repository.
+There must be **at least** 10 unique commits to your repository.
 Your code must meet each requirement outlined in the Exercises and Deliverables sections.
 Your code must adhere to the course style guidelines.
 
