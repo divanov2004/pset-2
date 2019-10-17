@@ -39,7 +39,7 @@ The first exercise is mostly done for you. You just have to fix a few things. Yo
 
 ## Exercises
 
-The specifications for each exercise are outlined below. Your job is to write lines of code to solve the problems. Your code must meet the requirements set forth in this section (as well as the Deliverables section). Each solution must be written in its own file, and named accordingly.
+The specifications for each exercise are outlined below. Your job is to write lines of code to solve the problems. Your code must meet the requirements set forth in this section. Each solution must be written in its own file, and named accordingly.
 
 Work through these exercises on your own. Experiment, make mistakes, ask questions, and fix your mistakes. It's the only way to get good at programming.
 
