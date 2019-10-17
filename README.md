@@ -47,11 +47,7 @@ Work through these exercises on your own. Experiment, make mistakes, ask questio
 
 I've written some code in `hello.js`, but it's broken. It's supposed to print a nice message to the console.
 
-```
-$ node hello.js
-Hello, world!
-$
-```
+![Exercise 1 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/hello.png)
 
 * Your code must be written in a file named `hello.js`.
 * Your message must match mine exactly (including spacing and punctuation).
@@ -60,13 +56,7 @@ $
 
 Prompt the user to enter his or her first name, and print a personalized message to the console.
 
-```
-$ node hello-user.js
-Hi! What's your name?
-Ryan
-
-Nice to meet you, Ryan!
-```
+![Exercise 2 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/hello-user.png)
 
 * Your code must be written in a file named `hello-user.js`.
 * Your prompt and personalized message must match mine exactly (including spacing and punctuation).
@@ -76,13 +66,7 @@ Nice to meet you, Ryan!
 
 What is the area (in square millimeters) of an *l*-by-*w*-inch sheet of paper, where *l* and *w* are provided by the user?
 
-```
-$ node area.js
-Width: 8.5
-Length: 11
-
-A(n) 8.5-by-11-inch sheet of paper has an area of 60,322.46 square millimeter(s).
-```
+![Exercise 3 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/area.png)
 
 * Your code must be written in a file named `area.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
@@ -94,13 +78,7 @@ A(n) 8.5-by-11-inch sheet of paper has an area of 60,322.46 square millimeter(s)
 
 What is the perimeter (in centimeters) of an *l*-by-*w*-inch sheet of paper, where *l* and *w* are provided by the user?
 
-```
-$ node perimeter.js
-Width: 8.5
-Length: 11
-
-A(n) 8.5-by-11-inch sheet of paper has a perimeter of 99.06 centimeter(s).
-```
+![Exercise 4 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/perimeter.png)
 
 * Your code must be written in a file named `perimeter.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
@@ -112,13 +90,7 @@ A(n) 8.5-by-11-inch sheet of paper has a perimeter of 99.06 centimeter(s).
 
 What is the length of the diagonal (in inches) between two corners on an *l*-by-*w*-inch sheet of paper, where *l* and *w* are provided by the user?
 
-```
-$ node diagonal.js
-Width: 8.5
-Length: 11
-
-A(n) 8.5-by-11-inch sheet of paper has a diagonal of 13.90 inch(es).
-```
+![Exercise 5 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/diagonal.png)
 
 * Your code must be written in a file named `diagonal.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
@@ -134,25 +106,7 @@ The grading policy defines the following weights.
 * Quizzes, 35%
 * Tests, 50%
 
-```
-$ node grades.js
-Enter three homework grades.
-88
-91
-0
-
-Enter three quiz grades.
-84
-89
-93
-
-Enter three test grades.
-74
-87
-82
-
-Your marking period grade is 80.48%.
-```
+![Exercise 6 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/grades.png)
 
 * Your code must be written in a file named `grades.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
@@ -164,20 +118,7 @@ Your marking period grade is 80.48%.
 
 I get paid by the hour as a cashier at a local supermarket. How much money will I make this week?
 
-```
-$ node hourly.js
-Hourly wage: 12.5
-
-Monday: 7.5
-Tuesday: 8
-Wednesday: 10.5
-Thursday: 9.5
-Friday: 6
-Saturday: 11.5
-Sunday: 0
-
-You'll make $662.50 this week.
-```
+![Exercise 7 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/hourly.png)
 
 * Your code must be written in a file named `hourly.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
@@ -195,12 +136,7 @@ What is my take-home pay each check? I get paid twice per month, and deductions 
 * Social Security tax, 6.2%
 * Medicare tax, 1.45%
 
-```
-$ node salary.js
-Annual salary: 117000
-
-Your take-home pay each check will be $3,272.46.
-```
+![Exercise 8 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/salary.png)
 
 * Your code must be written in a file named `salary.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
@@ -212,14 +148,7 @@ Your take-home pay each check will be $3,272.46.
 
 I am planning a class trip next month. How many buses do I need, and how many people will be on the last bus? You can assume that all buses are filled to capacity before moving on to the next bus.
 
-```
-$ node trip.js
-Students: 273
-Teachers: 28
-Bus capacity: 54
-
-6 buses are needed, with 31 passengers on the last bus.
-```
+![Exercise 9 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/trip.png)
 
 * Your code must be written in a file named `trip.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
@@ -229,12 +158,9 @@ Bus capacity: 54
 
 ### Exercise 10
 
-What is the surface area of a standard Cornhole board? The board is 48-by-24 inches, with a hole 6-inches in diameter.
+What is the surface area of a standard Cornhole board? The board is 48-by-24 inches, with a hole 6-inches in diameter. Write code to do the math - don't just print the answer!
 
-```
-$ node cornhole.js
-The surface area of a standard Cornhole board is 1,123.73 square inches.
-```
+![Exercise 10 Output](https://github.com/ap-principles-ucvts/pset-2-skeleton/blob/master/images/cornhole.png)
 
 * Your code must be written in a file named `cornhole.js`.
 * Your printed text must match mine exactly (including spacing and punctuation).
