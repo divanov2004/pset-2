@@ -181,6 +181,7 @@ You'll make $662.50 this week.
 
 * Your code must be written in a file named `hourly.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Use a `const` variable to represent the hourly wage.
 * Round the result to two decimals, and format it with separating commas (if needed).
 * Conditional statements and loops are not permitted.
 
@@ -203,6 +204,7 @@ Your take-home pay each check will be $3,272.46.
 
 * Your code must be written in a file named `salary.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Use `const` variables to represent the 401k contribution and tax rates.
 * Round the result to two decimals, and format it with separating commas (if needed).
 * Conditional statements and loops are not permitted.
 
@@ -221,6 +223,7 @@ Bus capacity: 54
 
 * Your code must be written in a file named `trip.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
+* Use `const` variables to represent the number of students and teachers, as well as the bus capacity.
 * Round the result to two decimals, and format it with separating commas (if needed).
 * Conditional statements and loops are not permitted.
 
@@ -235,6 +238,7 @@ The surface area of a standard Cornhole board is 1,123.73 square inches.
 
 * Your code must be written in a file named `cornhole.js`.
 * Your printed text must match mine exactly (including spacing and punctuation).
+* Use `const` variables to represent the board dimentions (length, width, and diameter).
 * Round the result to two decimals, and format it with separating commas (if needed).
 * Conditional statements and loops are not permitted.
 
