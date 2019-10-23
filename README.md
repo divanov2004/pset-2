@@ -153,7 +153,6 @@ I am planning a class trip next month. How many buses do I need, and how many pe
 * Your code must be written in a file named `trip.js`.
 * Your prompts and printed text must match mine exactly (including spacing and punctuation).
 * Use `const` variables to represent the number of students and teachers, as well as the bus capacity.
-* Round the result to two decimals, and format it with separating commas (if needed).
 * Conditional statements and loops are not permitted.
 
 ### Exercise 10
